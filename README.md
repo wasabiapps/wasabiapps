@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wasabiapps
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning teaching computer science
+- 🌱 I’m currently teaching computer science
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me wasabiapps@yandex.ru
 
